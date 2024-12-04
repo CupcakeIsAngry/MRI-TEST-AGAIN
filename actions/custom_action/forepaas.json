@@ -2,7 +2,7 @@
     "action": "custom",
     "action_id": "675060ef152da8a04ee717ed",
     "description": "",
-    "display_name": "Custom action",
+    "display_name": "Custom action - renamed",
     "environment": {
         "_id": "675060ef152da8a04ee717ee",
         "build": null,
